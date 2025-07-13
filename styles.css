@@ -1,0 +1,16 @@
+body {
+  background-color: #DBEADB;
+}
+h1 {
+  color: #203B20;
+  font-family: futura, arial, sans-serif;
+  font-weight: 600;
+}
+p {
+  color: #203B20;
+  font-family: "source serif 4";
+}
+#map {
+    height: 500px;
+    width: 600px;
+}
